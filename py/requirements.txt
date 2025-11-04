@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+stable-baselines3==2.3.2
+torch
+matplotlib
+gymnasium
+yfinance
+beautifulsoup4
+requests

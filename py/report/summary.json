@@ -1,0 +1,15 @@
+{
+  "csv": "C:\\Users\\Josiane Umumukiza\\Downloads\\quant-rl-lab\\quant-rl-lab\\py\\data\\sample_btc_minute.csv",
+  "model": "C:\\Users\\Josiane Umumukiza\\Downloads\\quant-rl-lab\\quant-rl-lab\\py\\ppo_alpha.zip",
+  "num_steps_eval": 2482,
+  "report_dir": "C:\\Users\\Josiane Umumukiza\\Downloads\\quant-rl-lab\\quant-rl-lab\\py\\report",
+  "artifacts": [
+    "drawdown.png",
+    "equity.png",
+    "price.png",
+    "regime.png",
+    "rolling_sharpe.png",
+    "volatility.png",
+    "zscore.png"
+  ]
+}
